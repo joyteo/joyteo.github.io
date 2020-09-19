@@ -91,10 +91,10 @@ After 5 full years of creating memories, I was able to graduate high school succ
 <h2>Take a Quiz before you go!</h2>
 <form id="form1">
 <h4>Canada's Birthday?</h4>
-<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31st.</label>
-<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1st</label>
-<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1st</label>
-<label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31st</label>
+<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31st.</label><br>
+<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1st</label><br>
+<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1st</label><br>
+<label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31st</label><br>
 <button type="submit" value="Submit">Submit</button>
 
 </form>
@@ -114,8 +114,8 @@ return false;
 }
 
 </script>
-
-<p style="font-size:20px" text-align="left"><b> What do you think: </b></p>
+<br><br><br>
+<p style="font-size:20px" text-align="left"><b> What do you think of the website: </b></p>
 <input type="radio" name="yesorno" value="">Very Impressed! <br>
 <input type="radio" name="yesorno" value="">Good try <br>
 <input type="radio" name="yesorno" value="">Meh <br>
