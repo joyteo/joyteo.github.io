@@ -47,7 +47,7 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')"></p>
 <p style="font-size:20px"> <b>Any Suggestions: </b></p>
 <textarea rows="10" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')"></p>
+<input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
 </survey>
 
 <p class="aligncenter"> <b>About Me</b> </p> 
