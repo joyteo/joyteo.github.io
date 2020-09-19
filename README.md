@@ -59,7 +59,7 @@ div {
 <div>I was born in a beautiful country in Southeast Asia called Malaysia, to an awesome pair of parents named Ronnie and Angela in year 1997! Malaysia is nothing like Newfoundland (weather wise), here it is scorching hot 365 days a year, you would be saving your money on buying a puffer jacket from Winners! Nonetheless, I am grateful to grow up in a country, which consists of many different races (Malay, Chinese, and Indian) that allowed me to be exposed to different cultures and languages at such a young age! </div><br>
 <i>*Feel free to click on the landscape of Malaysia to learn more about my home country</i>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 <h1> <strong>High School - SMK Bandar Utama 3 </strong></h1>
 
