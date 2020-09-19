@@ -45,6 +45,7 @@ div {
 <img src="Joy.jpg" width="200" height="250" align="center"/> 
 
 <p class="aligncenter"><a href="https://www.linkedin.com/in/joy-teo-43238814a/" target="_blank">Visit my LinkedIn!</a> </p>
+<p class="aligncenter"> <b>OR </b></p>
 <p class="aligncenter"> Download my resume <a href="Resume 2020.pdf">here</a></p>
 <p class="aligncenter"><b>Education:</b> <a href="https://www.mun.ca/" target="_blank">Memorial University of Newfoundland</a> <br>
 <p class="aligncenter"><b>Academic:</b> Bachelor of Process Engineering; Class of 2021 </p>
