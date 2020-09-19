@@ -64,7 +64,7 @@ div {
 <h1> <strong>High School - SMK Bandar Utama 3 </strong></h1>
 
 
-<img src="YE.jpeg" width="400" height="300" class="float-img"/> 
+<img src="YE.jpeg" width="400" height="320" class="float-img"/> 
 <h3> <strong>Young Enterprise (YE) Programme </strong></h3>
 <p><div>When I was 16 years of age, I decided to challenge myself into a program called Young Enterprise (YE), where we, as a team of students take our ideas and turn them into business opportunities by running a own company, named Prodigy Enterprise with a funding of approximately 250 CAD. In the team, I was honored to be elected as a Vice President, where I had to lead a team of 50 students in decision making, conducted marketing campaigns on campus to increase brand awareness, and others throughout the whole program. We experienced the full business cycle from capitalization to voluntary liquidation and had to raise capital for our own business through sale of shares. In the end of the 9 months program, we made history by being the team, who earned the highest amount of profit compared to previous teams that have participated in the program and was published in the local newspaper. </div></p>
 
