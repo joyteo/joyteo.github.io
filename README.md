@@ -46,7 +46,7 @@ div {
 
 
 
-<p class="aligncenter"><b>Education:</b> <a href="https://www.mun.ca/" target="_blank">Memorial University of Newfoundland</a> <br>
+<p class="aligncenter"><b>Education:</b> <a href="https://www.mun.ca/" target="_blank">Memorial University of Newfoundland</a> </p>
 <p class="aligncenter"><b>Academic:</b> Bachelor of Process Engineering; Class of 2021 </p>
 <p class="aligncenter">For more information, please visit my<a href="https://www.linkedin.com/in/joy-teo-43238814a/" target="_blank"> LinkedIn!</a> </p>
 <p class="aligncenter"> <b>OR </b></p>
