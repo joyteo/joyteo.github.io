@@ -38,7 +38,7 @@ div {
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 
-<p class="aligncenter"> <b>About Me</b> </p> 
+<p class="aligncenter" style="font-size:20px"> <b>About Me</b> </p> 
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
 <p class="aligncenter">
 <a href="https://www.linkedin.com/in/joy-teo-43238814a/">
