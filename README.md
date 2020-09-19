@@ -90,7 +90,7 @@ After 5 full years of creating memories, I was able to graduate high school succ
 <br><br><br><br><br><br><br><br><br><br>
 <h2>Take a Quiz before you go!</h2>
 <form id="form1">
-<h4>Canada's Birthday?</h4>
+<p>When is Canada's Birthday?</p>
 <label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31st.</label><br>
 <label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1st</label><br>
 <label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1st</label><br>
@@ -115,11 +115,12 @@ return false;
 
 </script>
 <br><br><br>
+<hr>
 <survey>
 <p style="font-size:20px" text-align="left"><b> What do you think of the website: </b></p>
 <input type="radio" name="yesorno" value="">Very Impressed! <br>
 <input type="radio" name="yesorno" value="">Good try <br>
-<input type="radio" name="yesorno" value="">Meh <br>
+<input type="radio" name="yesorno" value="">Bad <br>
 Others: <br><textarea rows="5" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Not Ready for Criticisms, Thanks for your patience!')">
 <p style="font-size:20px"> <b>Any Suggestions: </b></p>
