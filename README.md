@@ -95,7 +95,7 @@ After 5 full years of creating memories, I was able to graduate high school succ
 <label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1st</label><br>
 <label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1st</label><br>
 <label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31st</label><br>
-<button type="submit" value="Submit">Submit</button>
+<button type="submit" value="Submit">Submit</button><br>
 
 </form>
 <p>Your grade is: <span id="grade">__</span></p>
@@ -115,6 +115,7 @@ return false;
 
 </script>
 <br><br><br>
+<survey>
 <p style="font-size:20px" text-align="left"><b> What do you think of the website: </b></p>
 <input type="radio" name="yesorno" value="">Very Impressed! <br>
 <input type="radio" name="yesorno" value="">Good try <br>
