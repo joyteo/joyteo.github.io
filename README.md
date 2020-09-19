@@ -79,7 +79,7 @@ div {
 
 
 <br><br><br><br><br><br><br><br><br>
-<img src="high school.jpg" width="500" height="300" class="float-img"/>
+<img src="high school.jpg" width="400" height="300" class="float-img"/>
 <h3> <strong>End of High School~</strong></h3>
 After 5 full years of creating memories, I was able to graduate high school successfully and took my experiences to a higher level. 
 
