@@ -38,18 +38,6 @@ div {
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 
-<survey>
-<p style="font-size:20px"><b> What do you think: </b></p>
-<input type="radio" name="yesorno" value="">Very Impressed! <br>
-<input type="radio" name="yesorno" value="">Good try <br>
-<input type="radio" name="yesorno" value="">Meh <br>
-Others: <br><textarea rows="5" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')"></p>
-<p style="font-size:20px"> <b>Any Suggestions: </b></p>
-<textarea rows="10" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
-</survey>
-
 <p class="aligncenter"> <b>About Me</b> </p> 
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
 <p class="aligncenter">
@@ -95,6 +83,18 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 <img src="high school.jpg" width="500" height="300" class="float-img"/>
 <h3> <strong>End of High School~</strong></h3>
 After 5 full years of creating memories, I was able to graduate high school successfully and took my experiences to a higher level. <br>
+
+<survey>
+<p style="font-size:20px"><b> What do you think: </b></p>
+<input type="radio" name="yesorno" value="">Very Impressed! <br>
+<input type="radio" name="yesorno" value="">Good try <br>
+<input type="radio" name="yesorno" value="">Meh <br>
+Others: <br><textarea rows="5" cols="80"></textarea><br>
+<input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')"></p>
+<p style="font-size:20px"> <b>Any Suggestions: </b></p>
+<textarea rows="10" cols="80"></textarea><br>
+<input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
+</survey>
 
 
 
