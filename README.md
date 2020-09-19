@@ -66,15 +66,14 @@ div {
 
 <img src="YE.jpeg" width="400" height="300" class="float-img"/> 
 <h3> <strong>Young Enterprise (YE) Programme </strong></h3>
-<pr><div>When I was 16 years of age, I decided to challenge myself into a program called Young Enterprise (YE), where we, as a team of students take our ideas and turn them into business opportunities by running a own company, named Prodigy Enterprise with a funding of approximately 250 CAD. In the team, I was honored to be elected as a Vice President, where I had to lead a team of 50 students in decision making, conducted marketing campaigns on campus to increase brand awareness, and others throughout the whole program. We experienced the full business cycle from capitalization to voluntary liquidation and had to raise capital for our own business through sale of shares. In the end of the 9 months program, we made history by being the team, who earned the highest amount of profit compared to previous teams that have participated in the program and was published in the local newspaper. </div></p>
+<p><div>When I was 16 years of age, I decided to challenge myself into a program called Young Enterprise (YE), where we, as a team of students take our ideas and turn them into business opportunities by running a own company, named Prodigy Enterprise with a funding of approximately 250 CAD. In the team, I was honored to be elected as a Vice President, where I had to lead a team of 50 students in decision making, conducted marketing campaigns on campus to increase brand awareness, and others throughout the whole program. We experienced the full business cycle from capitalization to voluntary liquidation and had to raise capital for our own business through sale of shares. In the end of the 9 months program, we made history by being the team, who earned the highest amount of profit compared to previous teams that have participated in the program and was published in the local newspaper. </div></p>
 
-</p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <img src="TKD2.png" width="500" height="250" class="float-img"/>
 
-<h2> <strong>Taekwondo </strong></h2>
+<h3> <strong>Taekwondo </strong></h3>
 
 <div>Throughout my high school, I was also part of the Taekwondo club for 2 years, where I trained and pushed myself to my limits through examinations of acquiring a higher level of belts by performing Taekwondo skills that I have learnt through belt testing. Throughout the 2 years, I managed to achieve a blue belt, which is the third highest in order of colors of belt.</div>
 
@@ -82,7 +81,9 @@ div {
 <br><br><br><br><br><br><br><br><br>
 <img src="high school.jpg" width="500" height="300" class="float-img"/>
 <h3> <strong>End of High School~</strong></h3>
-After 5 full years of creating memories, I was able to graduate high school successfully and took my experiences to a higher level. <br>
+After 5 full years of creating memories, I was able to graduate high school successfully and took my experiences to a higher level. 
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <survey>
 <p style="font-size:20px"><b> What do you think: </b></p>
@@ -90,7 +91,7 @@ After 5 full years of creating memories, I was able to graduate high school succ
 <input type="radio" name="yesorno" value="">Good try <br>
 <input type="radio" name="yesorno" value="">Meh <br>
 Others: <br><textarea rows="5" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')"></p>
+<input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')">
 <p style="font-size:20px"> <b>Any Suggestions: </b></p>
 <textarea rows="10" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
@@ -105,6 +106,3 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 +1(709)746-8260
 
 
-
-</body>
-</html>
