@@ -55,7 +55,7 @@ div {
 
 
 <a href="https://www.britannica.com/place/Malaysia">
-<img src="overview-Malaysia.jpg" width="700" height="400" class="float-img"/></a> 
+<img src="overview-Malaysia.jpg" width="700" height="450" class="float-img"/></a> 
 
 <p>
 
