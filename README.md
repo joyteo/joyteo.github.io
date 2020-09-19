@@ -42,7 +42,7 @@ div {
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
 <p class="aligncenter">
 <a href="https://www.linkedin.com/in/joy-teo-43238814a/">
-<img src="Joy.jpg" width="200" height="250" align="center"/> 
+	<img src="Joy.jpg" width="200" height="250" align="center"/> </a>
 
 
 
