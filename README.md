@@ -89,6 +89,35 @@ After 5 full years of creating memories, I was able to graduate high school succ
 
 <br><br><br><br><br><br><br><br><br><br>
 <h2>Take a Quiz before you go!</h2>
+<form id="form1">
+<h4>Canada's Birthday?</h4>
+<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31st.</label>
+<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1st</label>
+<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1st</label>
+<label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31st</label>
+<button type="submit" value="Submit">Submit</button>
+
+</form>
+<p>Your grade is: <span id="grade">__</span></p>
+
+
+<script>
+document.getElementById("form1").onsubmit=function() {
+       thirtyone = parseInt(document.querySelector('input[name = "thirtyone"]:checked').value);
+	   first = parseInt(document.querySelector('input[name = "first"]:checked').value);
+	   sept = parseInt(document.querySelector('input[name = "sept"]:checked').value);
+	   ifstate = parseInt(document.querySelector('input[name = "ifstate"]:checked').value);
+	   
+result = thirtyone + first + sept + ifstate;
+	  
+document.getElementById("grade").innerHTML = result;
+	
+
+return false; 
+}
+
+</script>
+
 <p><a data-quiz="Q7YPLXO7S" data-type=4 href="https://www.quiz-maker.com/Q7YPLXO7S">Loading...</a><script>(function(i,s,o,g,r,a,m){var ql=document.querySelectorAll('A[quiz],DIV[quiz],A[data-quiz],DIV[data-quiz]'); if(ql){if(ql.length){for(var k=0;k<ql.length;k++){ql[k].id='quiz-embed-'+k;ql[k].href="javascript:var i=document.getElementById('quiz-embed-"+k+"');try{qz.startQuiz(i)}catch(e){i.start=1;i.style.cursor='wait';i.style.opacity='0.5'};void(0);"}}};i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//cdn.poll-maker.com/quiz-embed-v1.js','qp');</script>
 </p>
 <br>
