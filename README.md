@@ -100,7 +100,6 @@ After 5 full years of creating memories, I was able to graduate high school succ
 </form>
 <p>Your grade is: <span id="grade">__</span></p>
 
-
 <script>
 document.getElementById("form1").onsubmit=function() {
       variable = parseInt(document.querySelector('input[name = "variable"]:checked').value);
@@ -112,6 +111,8 @@ document.getElementById("grade").innerHTML = result;
 
 return false; 
 }
+
+</script>
 
 
 <p style="font-size:20px" text-align="left"><b> What do you think: </b></p>
