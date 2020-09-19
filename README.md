@@ -97,8 +97,7 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
 </survey>
 
-
-
+<br><br><br><br><br><br><br>
 <div class="footer">
 <b>Please contact me for further information!</b><br>
 
