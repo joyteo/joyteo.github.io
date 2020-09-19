@@ -91,7 +91,7 @@ After 5 full years of creating memories, I was able to graduate high school succ
 <input type="radio" name="yesorno" value="">Good try <br>
 <input type="radio" name="yesorno" value="">Meh <br>
 Others: <br><textarea rows="5" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Not Done Yet, Thanks for your patience!')">
+<input type = "Submit" name=" Submit" onclick="alert('Not Ready for Criticisms, Thanks for your patience!')">
 <p style="font-size:20px"> <b>Any Suggestions: </b></p>
 <textarea rows="10" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
