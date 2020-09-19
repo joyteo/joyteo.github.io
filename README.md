@@ -1,5 +1,5 @@
-# joyteo.github.io
-<!DOCTYPE html>
+
+
 <html>
 <style>
 h1 {text-align: center;}
