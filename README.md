@@ -89,10 +89,10 @@ After 5 full years of creating memories, I was able to graduate high school succ
 
 <br><br><br><br><br><br><br><br><br><br>
 <h3>Take a Quiz before you go!</h3>
-<a data-quiz="QTJWCJJ5H" data-type=4 data-width="50%" href="https://www.quiz-maker.com/QTJWCJJ5H">Loading...</a><script>(function(i,s,o,g,r,a,m){var ql=document.querySelectorAll('A[quiz],DIV[quiz],A[data-quiz],DIV[data-quiz]'); if(ql){if(ql.length){for(var k=0;k<ql.length;k++){ql[k].id='quiz-embed-'+k;ql[k].href="javascript:var i=document.getElementById('quiz-embed-"+k+"');try{qz.startQuiz(i)}catch(e){i.start=1;i.style.cursor='wait';i.style.opacity='0.5'};void(0);"}}};i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//cdn.poll-maker.com/quiz-embed-v1.js','qp');</script>
+<a data-quiz="QP7QVQQMW" data-type=4 href="https://www.quiz-maker.com/QP7QVQQMW">Loading...</a><script>(function(i,s,o,g,r,a,m){var ql=document.querySelectorAll('A[quiz],DIV[quiz],A[data-quiz],DIV[data-quiz]'); if(ql){if(ql.length){for(var k=0;k<ql.length;k++){ql[k].id='quiz-embed-'+k;ql[k].href="javascript:var i=document.getElementById('quiz-embed-"+k+"');try{qz.startQuiz(i)}catch(e){i.start=1;i.style.cursor='wait';i.style.opacity='0.5'};void(0);"}}};i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//cdn.poll-maker.com/quiz-embed-v1.js','qp');</script>
 <br>
 <survey>
-<p style="font-size:20px"><b> What do you think: </b></p>
+<p style="font-size:20px" text-align="left"><b> What do you think: </b></p>
 <input type="radio" name="yesorno" value="">Very Impressed! <br>
 <input type="radio" name="yesorno" value="">Good try <br>
 <input type="radio" name="yesorno" value="">Meh <br>
