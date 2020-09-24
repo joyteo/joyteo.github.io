@@ -1,7 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+.aligncenter {
+    text-align: center;
+}
+
+img {
+border: 3px solid #003366;}
+div {
+	text-align: justify;
+ 	text-justify: inter-word;}
+.float-img{
+	float: left;
+	clear: right;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	padding: 2px;
+}
+
+.footer {position: relative;
+   height:100px;
+   margin-top:-100px;
+   background: AliceBlue;
+   color: black;
+   text-align: center;
+   font-size:20px;
+   clear:both;
+}
+
+</style>
+
+<body>
+
+<h1>Welcome to Joy Teo's First Website!</h1>
+<p class="aligncenter"> <b>About Me</b> </p> 
+<h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2></th>
+<p class="aligncenter">
+<a href="https://www.linkedin.com/in/joy-teo-43238814a/">
+<img src="Joy.jpg" width="200" height="250" align="center"/> 
 <p class="aligncenter"><b>Academic:</b> Bachelor of Process Engineering; Class of 2021 </p>
 <p class="aligncenter">For more information, please visit my<a href="https://www.linkedin.com/in/joy-teo-43238814a/" target="_blank"> LinkedIn!</a> </p>
 <p class="aligncenter"> <b>OR </b></p>
-<p class="aligncenter"> Download my resume <a href="Resume 2020.pdf">here</a></p>
 <p class="aligncenter"> Download my resume <a href="Resume Online.pdf">here</a></p>
 <br>
 
