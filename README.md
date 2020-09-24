@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <style>
 h1 {text-align: center;}
@@ -37,12 +37,12 @@ div {
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
-<h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2></th>
+<h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
 <p class="aligncenter">
 <a href="https://www.linkedin.com/in/joy-teo-43238814a/">
 <img src="Joy.jpg" width="200" height="250" align="center"/> 
 <p class="aligncenter"><b>Academic:</b> Bachelor of Process Engineering; Class of 2021 </p>
-<p class="aligncenter">For more information, please visit my<a href="https://www.linkedin.com/in/joy-teo-43238814a/" target="_blank"> LinkedIn!</a> </p>
+<p class="aligncenter">For more information, please visit my <a href="https://www.linkedin.com/in/joy-teo-43238814a/" target="_blank"> LinkedIn!</a> </p>
 <p class="aligncenter"> <b>OR </b></p>
 <p class="aligncenter"> Download my resume <a href="Resume Online.pdf">here</a></p>
 <br>
