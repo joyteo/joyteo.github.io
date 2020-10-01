@@ -23,7 +23,8 @@ div {
 }
 
 .footer {position: relative;
-  padding: 4px;
+   height:100px;
+   margin-top:-100px;
    background: AliceBlue;
    color: black;
    text-align: center;
