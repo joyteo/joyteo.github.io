@@ -25,8 +25,8 @@ div {
 .footer {position: relative;
    height:100px;
    margin-top:-100px;
-   background: lavender;
-   color: black;
+   background: indigo;
+   color: white;
    text-align: center;
    font-size:20px;
   
