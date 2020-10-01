@@ -32,7 +32,7 @@ div {
 
 </style>
 
-<body>
+<body style="background-color:linear-gradient(to bottom, #9966ff 0%, #ffccff 100%);">
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
@@ -101,6 +101,7 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 <input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
 </survey>
 <br><br><br><br><br><br><br>
+</body>
 <div class="footer">
 <b>Please contact me for further information!</b><br>
 <a href="mailto:jlmteo@mun.ca">jlmteo@mun.ca</a><br>
