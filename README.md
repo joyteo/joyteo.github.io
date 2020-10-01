@@ -32,7 +32,7 @@ div {
 
 </style>
 
-<body style="background-color:linear-gradient(to bottom, #9966ff 0%, #ffccff 100%);">
+<body style="background-color:rgba(255, 99, 71, 0.2);">
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
