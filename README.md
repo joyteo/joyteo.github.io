@@ -57,11 +57,12 @@ div {
 
 <body>
 <div class="topnav">
-  <a href="#home">Home</a>
-  <a href="#about">About</a>
+  <a class="active" href="#contact">Contact</a>
+ <a href="#travel">Travel</a> 
   <a href="#projects">Projects</a>
-<a href="#travel">Travel</a> 
-<a class="active" href="#contact">Contact</a>
+
+ <a href="#about">About</a>	
+<a href="#home">Home</a>
 </div>
 	
 <h1>Welcome to Joy Teo's First Website!</h1>
