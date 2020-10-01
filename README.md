@@ -1,5 +1,6 @@
 
 <style>
+title{text-align: center;}
 h1 {text-align: center;}
 
 h2 {text-align: center;}
@@ -68,7 +69,7 @@ div {
 </div>
 
 <div class="w3-container w3-center w3-animate-zoom">	
-<h1>Welcome to Joy Teo's First Website!</h1>
+<title>Welcome to Joy Teo's First Website!</title>
 <p class="aligncenter"> <b>About Me</b> </p> 
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
 <p class="aligncenter"><a href="https://www.linkedin.com/in/joy-teo-43238814a/"><img src="Joy.jpg" width="200" height="250" align="center"/> </a></p>
