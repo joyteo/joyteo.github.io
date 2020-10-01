@@ -23,13 +23,12 @@ div {
 }
 
 .footer {position: relative;
-   height:100px;
-   margin-top:-100px;
+  padding: 4px;
    background: AliceBlue;
    color: black;
    text-align: center;
    font-size:20px;
-   clear:both;
+  
    }
 
 
