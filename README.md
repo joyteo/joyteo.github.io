@@ -99,12 +99,13 @@ div {
 <h3> <strong>End of High School~</strong></h3>
 After 5 full years of creating memories, I was able to graduate high school successfully and took my experiences to a higher level. 
 <br><br><br><br><br><br><br><br><br><br>
+
 <h2>Take a Quiz before you go!</h2>
 <form id="form1">
 <p>When is Canada's Birthday?</p>
-<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31.</label><br><br>
-<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1</label><br><br>
-<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1</label><br><br>
+<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31.</label><br>
+<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1</label><br>
+<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1</label><br>
 <label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31</label><br><br>
 <button type="submit" value="Submit">Submit</button><br><br><br>
 </form>
