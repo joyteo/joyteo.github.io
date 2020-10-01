@@ -33,11 +33,11 @@ div {
    }
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: Indigo;
 }
 
 .topnav a {
-  float: left;
+
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -51,7 +51,7 @@ div {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: Indigo;
   color: white;
 }
 
@@ -59,12 +59,14 @@ div {
 </style>
 
 <body>
-<div class="topnav">
+<div class="topnav-centered">
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
-  <a href="#contact">Contact</a>
   <a href="#projects">Projects</a>
+<a href="#travel">Travel</a> 
+<a href="#contact">Contact</a>
 </div>
+	
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
