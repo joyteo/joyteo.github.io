@@ -6,7 +6,9 @@ h2 {text-align: center;}
 .aligncenter {
     text-align: center;
 }
-
+body{
+	background: LavenderBlush;
+}
 img {
 border: 3px solid #003366;}
 div {
@@ -29,9 +31,7 @@ div {
    font-size:20px;
    clear:both;
    }
-.body {
-  background: AliceBlue;
-  }
+
 
 
 </style>
