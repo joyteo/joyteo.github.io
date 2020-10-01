@@ -25,7 +25,7 @@ div {
 .footer {position: relative;
    height:100px;
    margin-top:-100px;
-   background: AliceBlue;
+   background: lavender;
    color: black;
    text-align: center;
    font-size:20px;
@@ -50,7 +50,7 @@ div {
   color: black;
 }
 .topnav a.active {
-  background-color: aliceblue;
+  background-color: lavender;
   color: black;
 
 </style>
