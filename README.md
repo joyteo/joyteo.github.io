@@ -30,7 +30,7 @@ div {
    clear:both;
    
   .body {
-  background: #FFFAF0;
+  background: Bisque;
   }
 }
 
