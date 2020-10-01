@@ -50,8 +50,8 @@ div {
   color: black;
 }
 .topnav a.active {
-  background-color: active;
-  color: black;
+  background-color: indigo;
+  color: white;
 
 </style>
 
