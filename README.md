@@ -33,11 +33,11 @@ div {
    }
 .topnav {
   overflow: hidden;
-  background-color: AliceBlue;
+  background-color: indigo;
 }
 
 .topnav a {
-  float: left;
+  float: right;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -50,9 +50,8 @@ div {
   color: black;
 }
 .topnav a.active {
-  float:right;
   background-color: aliceblue;
-  color: white;
+  color: black;
 
 </style>
 
