@@ -28,7 +28,7 @@ div {
    text-align: center;
    font-size:20px;
    clear:both;
-   
+   }
 .body {
   background: Cornsilk;
   }
@@ -106,6 +106,8 @@ Others: <br><textarea rows="5" cols="80"></textarea><br>
 </survey>
 <br><br><br><br><br><br><br>
 </body>
+
+
 <div class="footer">
 <b>Please contact me for further information!</b><br>
 <a href="mailto:jlmteo@mun.ca">jlmteo@mun.ca</a><br>
