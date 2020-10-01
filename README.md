@@ -28,11 +28,15 @@ div {
    text-align: center;
    font-size:20px;
    clear:both;
+   
+  .body {
+  background: Cornsilk;
+  }
 }
 
 </style>
 
-<body style="background-color:rgba(255, 99, 71, 0.2);">
+<body>
 
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
