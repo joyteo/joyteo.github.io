@@ -37,7 +37,7 @@ div {
 }
 
 .topnav a {
-
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
@@ -46,20 +46,15 @@ div {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: AliceBlue;
   color: black;
-}
-
-.topnav a.active {
-  background-color: Indigo;
-  color: white;
 }
 
 
 </style>
 
 <body>
-<div class="topnav-centered">
+<div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
