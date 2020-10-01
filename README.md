@@ -56,9 +56,6 @@ div {
 
 </style>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 <body>
 <div class="topnav">
   <a class="active" href="#contact">Contact</a>
@@ -68,7 +65,7 @@ div {
 <a href="#home">Home</a>
 </div>
 
-<div class="w3-container w3-center w3-animate-zoom">	
+
 <h1>Welcome to Joy Teo's First Website!</h1>
 <p class="aligncenter"> <b>About Me</b> </p> 
 <h2 style="color:DodgerBlue;"> <strong><i>CLICK ME!</i></strong></h2>
