@@ -32,7 +32,7 @@ div {
 .body {
   background: Cornsilk;
   }
-}
+
 
 </style>
 
