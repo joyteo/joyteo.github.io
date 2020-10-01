@@ -33,7 +33,7 @@ div {
    }
 .topnav {
   overflow: hidden;
-  background-color: Indigo;
+  background-color: AliceBlue;
 }
 
 .topnav a {
@@ -46,20 +46,23 @@ div {
 }
 
 .topnav a:hover {
-  background-color: AliceBlue;
+  background-color: LavenderBlush;
   color: black;
 }
-
+.topnav a.active {
+  float:right;
+  background-color: aliceblue;
+  color: white;
 
 </style>
 
 <body>
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
 <a href="#travel">Travel</a> 
-<a href="#contact">Contact</a>
+<a class="active" href="#contact">Contact</a>
 </div>
 	
 <h1>Welcome to Joy Teo's First Website!</h1>
