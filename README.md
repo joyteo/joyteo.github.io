@@ -29,8 +29,8 @@ div {
    font-size:20px;
    clear:both;
    
-  .body {
-  background: Bisque;
+.body {
+  background: Cornsilk;
   }
 }
 
