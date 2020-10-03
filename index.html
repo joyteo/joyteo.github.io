@@ -12,12 +12,10 @@ h2 {text-align: center;
 body{
 	
 font-family:'centurygothic',sans-serif;
-padding-right: 50px;
-  padding-left: 80px;
+
 	
 }
-img {
-border: 3px solid #003366;}
+
 	
 div {
 	text-align: justify;
@@ -36,7 +34,6 @@ div {
    background: indigo;
    color: white;
    text-align: center;
-   font-size:20px;
   
    }
 .topnav {
@@ -84,43 +81,7 @@ div {
 <br>
 
 <br><br><br><br><br><br>
-<hr>
-<h2>Take a Quiz before you go!</h2>
-<form id="form1">
-<p>When is Canada's Birthday?</p>
-<label for="var_thirtyone"><input type="radio" name="variable" value="0" id="var_thirtyone" />July 31.</label><br>
-<label for="var_first"><input type="radio" name="variable" value="100" id="var_first" />July 1</label><br>
-<label for="var_sept"><input type="radio" name="variable" value="0" id="var_sept" />September 1</label><br>
-<label for="var_dec"><input type="radio" name="variable" value="0" id="var_dec"/>December 31</label><br><br>
-<button type="submit" value="Submit">Submit</button><br><br><br>
-</form>
-<p>Your grade is: <span id="grade">__</span></p>
-<script>
-document.getElementById("form1").onsubmit=function() {
-      variable = parseInt(document.querySelector('input[name = "variable"]:checked').value);
-      
-result = variable;
-	  
-document.getElementById("grade").innerHTML = result;
-	
-return false; 
-}
-</script>
-<br><br>
-<hr>
-<survey>
-<p style="font-size:20px" text-align="left"><b> What do you think of the website: </b></p>
-<input type="radio" name="yesorno" value="">Impressed! <br>
-<input type="radio" name="yesorno" value="">Good try <br>
-<input type="radio" name="yesorno" value="">Bad <br>
-Others: <br><textarea rows="5" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Not Ready for Criticisms, Thanks for your patience!')">
-<p style="font-size:20px"> <b>Any Suggestions: </b></p>
-<textarea rows="10" cols="80"></textarea><br>
-<input type = "Submit" name=" Submit" onclick="alert('Hold up, still under construction')">
-</survey>
-<br><br><br><br><br><br><br>
-</body>
+
 
 
 <div class="footer">
